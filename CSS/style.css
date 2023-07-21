@@ -7,14 +7,12 @@
 body{
     background: #002339;
     color: #fff;
-
 }
 .container{
     margin: 12%;
     width: 90%;
     max-width: 700px;
 }
-
 .display{
     width: 100%;
     margin-top: 50px;
@@ -22,7 +20,7 @@ body{
     background: #fff;
     color: #333;
     display: flex;
-    align-items:center;
+    align-items: center;
     justify-content: space-between;
     padding: 26px 20px;
     border-radius: 5px;
@@ -36,21 +34,16 @@ body{
     border-bottom: 4px solid #019f55;
     padding-bottom: 7px;
 }
-
 .display img{
     width: 30px;
     cursor: pointer;
-
-} 
-
+}
 .display input{
     border: 0;
     outline: 0;
     font-size: 24px;
-    
-} 
-
-.container button img {
+}
+.container button img{
     width: 28px;
     margin-right: 10px;
 }
@@ -67,5 +60,4 @@ body{
     padding: 16px 26px;
     border-radius: 5px;
     cursor: pointer;
-
 }
